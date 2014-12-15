@@ -1,0 +1,12 @@
+{
+	"installed_packages":
+	[
+		"Alignment",
+		"BracketHighlighter",
+		"CTags",
+		"Emmet",
+		"Git",
+		"Pylinter",
+		"SublimeREPL"
+	]
+}

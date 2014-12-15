@@ -1,0 +1,6 @@
+{
+"cmd":["python.exe", "-u", "$file"],
+"path":"D:/depot_tools/python276_bin",
+"file_regex": "^[ ]*File \"(...*?)\", line ([0-9]*)",
+"selector": "source.python"
+}
